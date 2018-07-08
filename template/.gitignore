@@ -1,0 +1,12 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Sass template
+.sass-cache/
+*.css.map
+
+.idea
+node_modules
+dist
+lib
+es
+
+package-lock.json

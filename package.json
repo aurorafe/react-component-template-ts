@@ -1,0 +1,10 @@
+{
+  "name": "react-component-template-ts",
+  "version": "0.0.1",
+  "license": "MIT",
+  "description": "A full-featured Webpack and typescript for build react component",
+  "scripts": {},
+  "devDependencies": {
+    "sakitam-cli": "^0.0.4"
+  }
+}
